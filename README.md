@@ -1,6 +1,6 @@
 # Simple-Loop-in-VB
 
-## 3. Loop Message
+## Loop Message
 Loops through numbers and shows message boxes.
 
 ### Run:
